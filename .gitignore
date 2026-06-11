@@ -4,7 +4,6 @@ venv/
 
 # Arquivos de dados (Wikipedia e saídas)
 input*.txt
-output*.txt
 dataset.txt
 
 # Caches do Python
